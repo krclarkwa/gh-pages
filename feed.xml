@@ -3,7 +3,7 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-17T16:04:35-07:00</updated>
+    <updated>2023-08-17T16:09:23-07:00</updated>
     <author>
         <name>HLX</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://krclarkwa.github.io/gh-pages/creating-a-gadget.html"/>
         <id>https://krclarkwa.github.io/gh-pages/creating-a-gadget.html</id>
 
-        <updated>2023-08-17T16:04:35-07:00</updated>
+        <updated>2023-08-17T16:09:23-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -25,6 +25,8 @@
 <script> (function(s,p,o,t,T){ T=p.getElementsByTagName('head')[0]; t=p.createElement('script');t.async=1;t.src=o; T.appendChild(t); })(window,document,'https://static.spott.ai/embed/embed.js'); </script>
 </p>
 <div class="spott-embed" data-spott-id="723402bf-cf49-42cd-a216-2fa51ea38837"> </div>
+<br>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/276d2540-b454-4f7e-9b0c-f5fe0a2c34d8/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
             ]]>
         </content>
     </entry>
