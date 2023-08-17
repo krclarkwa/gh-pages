@@ -9,5 +9,18 @@
         "name": "HLX"
     },
     "items": [
+        {
+            "id": "https://krclarkwa.github.io/gh-pages/creating-a-gadget.html",
+            "url": "https://krclarkwa.github.io/gh-pages/creating-a-gadget.html",
+            "title": "Creating a Gadget",
+            "content_html": "<p>\n<script> (function(s,p,o,t,T){ T=p.getElementsByTagName('head')[0]; t=p.createElement('script');t.async=1;t.src=o; T.appendChild(t); })(window,document,'https://static.spott.ai/embed/embed.js'); </script>\n</p>\n<div class=\"spott-embed\" data-spott-id=\"723402bf-cf49-42cd-a216-2fa51ea38837\"> </div>",
+            "author": {
+                "name": "HLX"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-17T16:04:35-07:00",
+            "date_modified": "2023-08-17T16:04:35-07:00"
+        }
     ]
 }

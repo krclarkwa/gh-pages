@@ -3,10 +3,29 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2023-08-17T16:04:35-07:00</updated>
     <author>
         <name>HLX</name>
     </author>
     <id>https://krclarkwa.github.io/gh-pages</id>
 
+    <entry>
+        <title>Creating a Gadget</title>
+        <author>
+            <name>HLX</name>
+        </author>
+        <link href="https://krclarkwa.github.io/gh-pages/creating-a-gadget.html"/>
+        <id>https://krclarkwa.github.io/gh-pages/creating-a-gadget.html</id>
+
+        <updated>2023-08-17T16:04:35-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script> (function(s,p,o,t,T){ T=p.getElementsByTagName('head')[0]; t=p.createElement('script');t.async=1;t.src=o; T.appendChild(t); })(window,document,'https://static.spott.ai/embed/embed.js'); </script>
+</p>
+<div class="spott-embed" data-spott-id="723402bf-cf49-42cd-a216-2fa51ea38837"> </div>
+            ]]>
+        </content>
+    </entry>
 </feed>
