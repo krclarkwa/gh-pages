@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://krclarkwa.github.io/gh-pages/sitemap.xml
+Disallow: /

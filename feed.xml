@@ -3,12 +3,24 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-17T16:09:23-07:00</updated>
+    <updated>2023-08-17T17:42:03-07:00</updated>
     <author>
         <name>HLX</name>
     </author>
     <id>https://krclarkwa.github.io/gh-pages</id>
 
+    <entry>
+        <title>Overview of Functions</title>
+        <author>
+            <name>HLX</name>
+        </author>
+        <link href="https://krclarkwa.github.io/gh-pages/overview.html"/>
+        <id>https://krclarkwa.github.io/gh-pages/overview.html</id>
+
+        <updated>2023-08-17T17:42:03-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Creating a Gadget</title>
         <author>
