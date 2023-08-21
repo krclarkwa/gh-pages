@@ -3,12 +3,32 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-21T13:50:11-07:00</updated>
+    <updated>2023-08-21T14:43:47-07:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://krclarkwa.github.io/gh-pages</id>
 
+    <entry>
+        <title>Edit Asset in Cartegraph Classic (Desktop)</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://krclarkwa.github.io/gh-pages/edit-asset-in-cartegraph-classic-desktop/"/>
+        <id>https://krclarkwa.github.io/gh-pages/edit-asset-in-cartegraph-classic-desktop/</id>
+            <category term="Video"/>
+            <category term="Edit"/>
+            <category term="Desktop"/>
+            <category term="Asset"/>
+
+        <updated>2023-08-21T14:43:47-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/b2261900-4748-4b5f-a83c-26350c18729e/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Attachments</title>
         <author>
@@ -39,7 +59,7 @@
         <link href="https://krclarkwa.github.io/gh-pages/non-asset-task/"/>
         <id>https://krclarkwa.github.io/gh-pages/non-asset-task/</id>
 
-        <updated>2023-08-21T13:29:48-07:00</updated>
+        <updated>2023-08-21T14:41:34-07:00</updated>
             <summary>
                 <![CDATA[
                     What is Non-Asset Task Tasks that are not related to Assets and not performed on Assets.
@@ -70,6 +90,7 @@
 <div class="rte-webpart rte--ck5 rte--read-ck5 uniformSpacingForElements" dir="auto" data-sp-feature-tag="Rich Text Editor" data-sp-feature-instance-id="8cbe0789-d45a-4cb5-808d-66bad0a2b589">
 <div class="ck-content rteEmphasis root-161" data-automation-id="textBox">
 <p><a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a> that are not related to <a href="https://krclarkwa.github.io/gh-pages/assets/">Assets</a> and not performed on Assets.</p>
+<p> </p>
 </div>
 </div>
 </div>
@@ -275,17 +296,5 @@
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/a0e92976-c93f-446d-86bf-ad139893ea5e/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Dashboard</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://krclarkwa.github.io/gh-pages/dashboard/"/>
-        <id>https://krclarkwa.github.io/gh-pages/dashboard/</id>
-
-        <updated>2023-08-21T09:42:04-07:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
