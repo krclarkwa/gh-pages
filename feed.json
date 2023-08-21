@@ -6,17 +6,17 @@
     "feed_url": "https://krclarkwa.github.io/gh-pages/feed.json",
     "user_comment": "",
     "author": {
-        "name": "HLX"
+        "name": "K"
     },
     "items": [
         {
-            "id": "https://krclarkwa.github.io/gh-pages/attachments.html",
-            "url": "https://krclarkwa.github.io/gh-pages/attachments.html",
+            "id": "https://krclarkwa.github.io/gh-pages/attachments/",
+            "url": "https://krclarkwa.github.io/gh-pages/attachments/",
             "title": "Attachments",
-            "summary": "Attachments are Documents, Images, Photos, other files that can be a part&hellip;",
-            "content_html": "<p>Attachments are Documents, Images, Photos, other files that can be a part of records, such as <a href=\"https://krclarkwa.github.io/gh-pages/assets.html\">Assets</a>, <a href=\"https://krclarkwa.github.io/gh-pages/requests.html\">Requests</a>, <a href=\"https://krclarkwa.github.io/gh-pages/tasks.html\">Tasks</a>, <a href=\"https://krclarkwa.github.io/gh-pages/non-asset-task.html\">Non-Asset Tasks</a>, <a href=\"https://krclarkwa.github.io/gh-pages/work-orders.html\">Work Orders</a>, and <a href=\"https://krclarkwa.github.io/gh-pages/resources.html\">Resources</a>.</p>",
+            "summary": "Attachments are Documents, Images, Photos, other files that can be a part of records, such as Assets, Requests, Tasks, Non-Asset Tasks, Work Orders, and Resources.",
+            "content_html": "<p>Attachments are Documents, Images, Photos, other files that can be a part of records, such as <a href=\"https://krclarkwa.github.io/gh-pages/assets/\">Assets</a>, <a href=\"https://krclarkwa.github.io/gh-pages/requests/\">Requests</a>, <a href=\"https://krclarkwa.github.io/gh-pages/tasks/\">Tasks</a>, <a href=\"https://krclarkwa.github.io/gh-pages/non-asset-task/\">Non-Asset Tasks</a>, <a href=\"https://krclarkwa.github.io/gh-pages/work-orders/\">Work Orders</a>, and <a href=\"https://krclarkwa.github.io/gh-pages/resources/\">Resources</a>.</p>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
                    "Details",
@@ -26,13 +26,13 @@
             "date_modified": "2023-08-21T13:50:11-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/non-asset-task.html",
-            "url": "https://krclarkwa.github.io/gh-pages/non-asset-task.html",
+            "id": "https://krclarkwa.github.io/gh-pages/non-asset-task/",
+            "url": "https://krclarkwa.github.io/gh-pages/non-asset-task/",
             "title": "Non-Asset Task",
-            "summary": "What is Non-Asset Task Tasks that are not related to Assets and&hellip;",
-            "content_html": "<p> </p>\n<p><span style=\"color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);\">What is Non-Asset Task</span></p>\n<div class=\"a_c_50a7110f a_c_50a7110f root-160 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\" data-automation-id=\"CanvasZone\">\n<div class=\"p_c_50a7110f\">\n<div class=\"a_a_50a7110f h_a_50a7110f CanvasSection CanvasSection-col CanvasSection-sm12 CanvasSection--read CanvasSection-xl12 i_a_50a7110f\" data-automation-id=\"CanvasSection\">\n<div id=\"b55cb596-e813-405a-ba3d-2fad2b060088\" class=\"ControlZone ControlZone--clean a_e_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart rte--ck5 rte--read-ck5 uniformSpacingForElements\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"b55cb596-e813-405a-ba3d-2fad2b060088\">\n<div class=\"ck-content rteEmphasis root-161\" data-automation-id=\"textBox\"> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"a_c_50a7110f a_c_50a7110f root-160 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\" data-automation-id=\"CanvasZone\">\n<div class=\"p_c_50a7110f\">\n<div class=\"a_a_50a7110f h_a_50a7110f CanvasSection CanvasSection-col CanvasSection-sm12 CanvasSection--read CanvasSection-xl12 i_a_50a7110f\" data-automation-id=\"CanvasSection\">\n<div id=\"8cbe0789-d45a-4cb5-808d-66bad0a2b589\" class=\"ControlZone ControlZone--clean a_e_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart rte--ck5 rte--read-ck5 uniformSpacingForElements\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"8cbe0789-d45a-4cb5-808d-66bad0a2b589\">\n<div class=\"ck-content rteEmphasis root-161\" data-automation-id=\"textBox\">\n<p><a href=\"https://krclarkwa.github.io/gh-pages/tasks.html\">Tasks</a> that are not related to <a href=\"https://krclarkwa.github.io/gh-pages/assets.html\">Assets</a> and not performed on Assets.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "summary": "What is Non-Asset Task Tasks that are not related to Assets and not performed on Assets.",
+            "content_html": "<p> </p>\n<p><span style=\"color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);\">What is Non-Asset Task</span></p>\n<div class=\"a_c_50a7110f a_c_50a7110f root-160 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\" data-automation-id=\"CanvasZone\">\n<div class=\"p_c_50a7110f\">\n<div class=\"a_a_50a7110f h_a_50a7110f CanvasSection CanvasSection-col CanvasSection-sm12 CanvasSection--read CanvasSection-xl12 i_a_50a7110f\" data-automation-id=\"CanvasSection\">\n<div id=\"b55cb596-e813-405a-ba3d-2fad2b060088\" class=\"ControlZone ControlZone--clean a_e_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart rte--ck5 rte--read-ck5 uniformSpacingForElements\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"b55cb596-e813-405a-ba3d-2fad2b060088\">\n<div class=\"ck-content rteEmphasis root-161\" data-automation-id=\"textBox\"> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"a_c_50a7110f a_c_50a7110f root-160 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\" data-automation-id=\"CanvasZone\">\n<div class=\"p_c_50a7110f\">\n<div class=\"a_a_50a7110f h_a_50a7110f CanvasSection CanvasSection-col CanvasSection-sm12 CanvasSection--read CanvasSection-xl12 i_a_50a7110f\" data-automation-id=\"CanvasSection\">\n<div id=\"8cbe0789-d45a-4cb5-808d-66bad0a2b589\" class=\"ControlZone ControlZone--clean a_e_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart rte--ck5 rte--read-ck5 uniformSpacingForElements\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"8cbe0789-d45a-4cb5-808d-66bad0a2b589\">\n<div class=\"ck-content rteEmphasis root-161\" data-automation-id=\"textBox\">\n<p><a href=\"https://krclarkwa.github.io/gh-pages/tasks/\">Tasks</a> that are not related to <a href=\"https://krclarkwa.github.io/gh-pages/assets/\">Assets</a> and not performed on Assets.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
@@ -40,13 +40,13 @@
             "date_modified": "2023-08-21T13:29:48-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/work-orders.html",
-            "url": "https://krclarkwa.github.io/gh-pages/work-orders.html",
+            "id": "https://krclarkwa.github.io/gh-pages/work-orders/",
+            "url": "https://krclarkwa.github.io/gh-pages/work-orders/",
             "title": "Work Orders",
-            "summary": "Work Orders are groups of Tasks with assigned Resources and, usually, related&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/10//work-work-orders.JPG\" alt=\"\" width=\"1379\" height=\"371\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-lg.JPG 1024w\"></figure>\n<p>Work Orders are groups of <a href=\"https://krclarkwa.github.io/gh-pages/tasks.html\">Tasks</a> with assigned <a href=\"https://krclarkwa.github.io/gh-pages/resources.html\">Resources</a> and, usually, related to <a href=\"https://krclarkwa.github.io/gh-pages/assets.html\">Assets</a>.</p>\n<p> </p>",
+            "summary": "Work Orders are groups of Tasks with assigned Resources and, usually, related to Assets.",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/10//work-work-orders.JPG\" alt=\"\" width=\"1379\" height=\"371\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-lg.JPG 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-xl.JPG 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-2xl.JPG 1600w\"></figure>\n<p>Work Orders are groups of <a href=\"https://krclarkwa.github.io/gh-pages/tasks/\">Tasks</a> with assigned <a href=\"https://krclarkwa.github.io/gh-pages/resources/\">Resources</a> and, usually, related to <a href=\"https://krclarkwa.github.io/gh-pages/assets/\">Assets</a>.</p>\n<p> </p>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
@@ -54,13 +54,13 @@
             "date_modified": "2023-08-21T13:26:56-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/tasks.html",
-            "url": "https://krclarkwa.github.io/gh-pages/tasks.html",
+            "id": "https://krclarkwa.github.io/gh-pages/tasks/",
+            "url": "https://krclarkwa.github.io/gh-pages/tasks/",
             "title": "Tasks",
-            "summary": "Tasks are \"graduated\" Requests. Tasks are combined into Work Orders or remain&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/9/tasks.jpeg\" alt=\"\" width=\"824\" height=\"203\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-xs.jpeg 300w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-sm.jpeg 480w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-md.jpeg 768w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-lg.jpeg 1024w\"></figure>\n<p>Tasks are \"graduated\" <a href=\"https://krclarkwa.github.io/gh-pages/requests.html\" target=\"_blank\" rel=\"noopener noreferrer\">Requests</a>. Tasks are combined into Work Orders or remain standalone.</p>",
+            "summary": "Tasks are \"graduated\" Requests. Tasks are combined into Work Orders or remain standalone.",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/9/tasks.jpeg\" alt=\"\" width=\"824\" height=\"203\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-xs.jpeg 300w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-sm.jpeg 480w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-md.jpeg 768w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-lg.jpeg 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-xl.jpeg 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-2xl.jpeg 1600w\"></figure>\n<p>Tasks are \"graduated\" <a href=\"https://krclarkwa.github.io/gh-pages/requests/\" target=\"_blank\" rel=\"noopener noreferrer\">Requests</a>. Tasks are combined into Work Orders or remain standalone.</p>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
@@ -68,13 +68,13 @@
             "date_modified": "2023-08-21T13:22:41-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/reports.html",
-            "url": "https://krclarkwa.github.io/gh-pages/reports.html",
+            "id": "https://krclarkwa.github.io/gh-pages/reports/",
+            "url": "https://krclarkwa.github.io/gh-pages/reports/",
             "title": "Reports",
             "summary": "Reports are \"pretty\" printables and raw data for Tasks, Work Orders.",
-            "content_html": "<p>Reports are \"pretty\" printables and raw data for <a href=\"https://krclarkwa.github.io/gh-pages/tasks.html\">Tasks</a>, <a href=\"https://krclarkwa.github.io/gh-pages/work-orders.html\">Work Orders</a>.</p>",
+            "content_html": "<p>Reports are \"pretty\" printables and raw data for <a href=\"https://krclarkwa.github.io/gh-pages/tasks/\">Tasks</a>, <a href=\"https://krclarkwa.github.io/gh-pages/work-orders/\">Work Orders</a>.</p>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
@@ -82,13 +82,13 @@
             "date_modified": "2023-08-21T13:43:41-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/resources.html",
-            "url": "https://krclarkwa.github.io/gh-pages/resources.html",
+            "id": "https://krclarkwa.github.io/gh-pages/resources/",
+            "url": "https://krclarkwa.github.io/gh-pages/resources/",
             "title": "Resources",
-            "summary": "Resources are Labor - Human Resources, such as Labor Crews and Workers.",
+            "summary": "Resources are Labor - Human Resources, such as Labor Crews and Workers. Materials - what County has in stock. Vendors - their materials, equipment and services. Video by Cartegraph Cartegraph OMS Overview - Resource Management ",
             "content_html": "<div>\n<h2 id=\"resources-are\">Resources are </h2>\n<a class=\"b_a_1310c973 c_a_1310c973 focusBorder-182\" role=\"link\" aria-label=\"Permalink for Resources are \" data-sp-anchor-id=\"resources-are\" href=\"https://clarkcountywa.sharepoint.com/sites/CCPWTrafficSignals/SitePages/resources.aspx#resources-are\" target=\"_self\"><i class=\"e_a_1310c973 f_a_1310c973 css-181\" aria-hidden=\"true\"></i></a></div>\n<ul>\n<li>Labor - Human Resources, such as Labor Crews and Workers.</li>\n<li>Materials - what County has in stock.</li>\n<li>Vendors - their materials, equipment and services.</li>\n</ul>\n<p> </p>\n<p>Video by Cartegraph</p>\n<p>Cartegraph OMS Overview - Resource Management </p>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
@@ -96,13 +96,13 @@
             "date_modified": "2023-08-21T13:14:36-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/assets.html",
-            "url": "https://krclarkwa.github.io/gh-pages/assets.html",
+            "id": "https://krclarkwa.github.io/gh-pages/assets/",
+            "url": "https://krclarkwa.github.io/gh-pages/assets/",
             "title": "Assets",
-            "summary": "Assets are physical objects, items that County owns, services or operates, such&hellip;",
-            "content_html": "<div id=\"8c37c043-1b9a-4dbf-ba8c-83227a9afeab\" class=\"ControlZone ControlZone--clean a_e_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"8c37c043-1b9a-4dbf-ba8c-83227a9afeab\">\n<div class=\"cke_editable rte--read rte--inline ckeditable_removeMargin highlightFocusFix rte-strong-fontWeight blockQuoteFont zeroSpacing cke_editable rteEmphasis root-149\" data-automation-id=\"textBox\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/6/assets.JPG\" alt=\"\" width=\"1472\" height=\"333\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-lg.JPG 1024w\"></figure>Assets are physical objects, items that County owns, services or operates, such as Signals, Shelters, Signs, Buildings.</p>\n<h2>Duplicating an Asset</h2>\n<p>Instead of entering the same information for a new restocked asset, duplicate the old record.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/50405c87-b938-436b-b5a8-1f2f8d544dbb/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<h2>Editing an Asset</h2>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/b2261900-4748-4b5f-a83c-26350c18729e/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<p> </p>\n</div>\n</div>\n</div>\n</div>\n<h2>Vendor Video</h2>\n<p>Asset inventory, inspections, performance, and relationships. </p>\n<p> </p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/400bed34-deb2-44da-9365-b3679c1ac0ab/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>",
+            "summary": "Assets are physical objects, items that County owns, services or operates, such as Signals, Shelters, Signs, Buildings. Instead of entering the same information for a new restocked asset, duplicate the old record. Asset inventory, inspections, performance, and relationships.",
+            "content_html": "<div id=\"8c37c043-1b9a-4dbf-ba8c-83227a9afeab\" class=\"ControlZone ControlZone--clean a_e_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"8c37c043-1b9a-4dbf-ba8c-83227a9afeab\">\n<div class=\"cke_editable rte--read rte--inline ckeditable_removeMargin highlightFocusFix rte-strong-fontWeight blockQuoteFont zeroSpacing cke_editable rteEmphasis root-149\" data-automation-id=\"textBox\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/6/assets.JPG\" alt=\"\" width=\"1472\" height=\"333\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-lg.JPG 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-xl.JPG 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-2xl.JPG 1600w\"></figure>Assets are physical objects, items that County owns, services or operates, such as Signals, Shelters, Signs, Buildings.</p>\n<h2>Duplicating an Asset</h2>\n<p>Instead of entering the same information for a new restocked asset, duplicate the old record.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/50405c87-b938-436b-b5a8-1f2f8d544dbb/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<h2>Editing an Asset</h2>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/b2261900-4748-4b5f-a83c-26350c18729e/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<p> </p>\n</div>\n</div>\n</div>\n</div>\n<h2>Vendor Video</h2>\n<p>Asset inventory, inspections, performance, and relationships. </p>\n<p> </p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/400bed34-deb2-44da-9365-b3679c1ac0ab/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
                    "Warehousing",
@@ -113,13 +113,13 @@
             "date_modified": "2023-08-21T13:28:09-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/work.html",
-            "url": "https://krclarkwa.github.io/gh-pages/work.html",
+            "id": "https://krclarkwa.github.io/gh-pages/work/",
+            "url": "https://krclarkwa.github.io/gh-pages/work/",
             "title": "Work",
             "summary": "Tasks, Resource entry, Work Orders, and Activities",
             "content_html": "<p>Tasks, Resource entry, Work Orders, and Activities</p>\n<p> </p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/73a6d973-e842-44b6-8f7a-5fe90a7aace5/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
@@ -127,13 +127,13 @@
             "date_modified": "2023-08-21T12:53:44-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/requests.html",
-            "url": "https://krclarkwa.github.io/gh-pages/requests.html",
+            "id": "https://krclarkwa.github.io/gh-pages/requests/",
+            "url": "https://krclarkwa.github.io/gh-pages/requests/",
             "title": "Requests",
-            "summary": "Cartegraph Requests Requests are created when a customer (citizen, co-worker, partner, contractor,&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/4/requests.JPG\" alt=\"\" width=\"1681\" height=\"366\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-lg.JPG 1024w\"></figure>\n<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1h8cr630d4n\">Cartegraph Requests</a></li>\n<li><a href=\"#mcetoc_1h8cr630d4o\">What is a Request</a></li>\n<li><a href=\"#mcetoc_1h8cr630d4p\">Video by Cartegraph</a></li>\n</ul>\n</div>\n<h2 id=\"mcetoc_1h8cr630d4n\">Cartegraph Requests</h2>\n<ol>\n<li>Requests are created when a customer (citizen, co-worker, partner, contractor, etc.) requests a service, such as inspection, repair, installation, etc.</li>\n<li>Next, a Task or a group of Tasks is created to address a Request. If a Request requires multiple Tasks, more Tasks can be added to a Request. </li>\n<li>Further, a Task or a group of Tasks goes into a Work Order.</li>\n</ol>\n<h2 id=\"mcetoc_1h8cr630d4o\">What is a Request</h2>\n<p>Request is a formal register of a customer-reported issue, complaint, request, order. Request is the CSR precursor.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/25a5551a-8665-430d-9381-2d5bab262eb8/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<h2 id=\"mcetoc_1h8cr630d4p\">Video by Cartegraph</h2>\n<p>Creating a request, managing data, and creating a task from a request.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/a0e92976-c93f-446d-86bf-ad139893ea5e/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>",
+            "summary": "Cartegraph Requests Requests are created when a customer (citizen, co-worker, partner, contractor, etc.) requests a service, such as inspection, repair, installation, etc. Next, a Task or a group of Tasks is created to address a Request. If a Request requires multiple Tasks, more Tasks can&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://krclarkwa.github.io/gh-pages/media/posts/4/requests.JPG\" alt=\"\" width=\"1681\" height=\"366\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-lg.JPG 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-xl.JPG 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-2xl.JPG 1600w\"></figure>\n<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1h8cr630d4n\">Cartegraph Requests</a></li>\n<li><a href=\"#mcetoc_1h8cr630d4o\">What is a Request</a></li>\n<li><a href=\"#mcetoc_1h8cr630d4p\">Video by Cartegraph</a></li>\n</ul>\n</div>\n<h2 id=\"mcetoc_1h8cr630d4n\">Cartegraph Requests</h2>\n<ol>\n<li>Requests are created when a customer (citizen, co-worker, partner, contractor, etc.) requests a service, such as inspection, repair, installation, etc.</li>\n<li>Next, a Task or a group of Tasks is created to address a Request. If a Request requires multiple Tasks, more Tasks can be added to a Request. </li>\n<li>Further, a Task or a group of Tasks goes into a Work Order.</li>\n</ol>\n<h2 id=\"mcetoc_1h8cr630d4o\">What is a Request</h2>\n<p>Request is a formal register of a customer-reported issue, complaint, request, order. Request is the CSR precursor.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/25a5551a-8665-430d-9381-2d5bab262eb8/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>\n<h2 id=\"mcetoc_1h8cr630d4p\">Video by Cartegraph</h2>\n<p>Creating a request, managing data, and creating a task from a request.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-bottom: 56.25%;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"745\" height=\"419\" style=\"position: absolute; width: 100%; height: 100%; left: 0; top: 0;\" src=\"https://sumplayer.com/video/a0e92976-c93f-446d-86bf-ad139893ea5e/\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div></div>",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
@@ -141,11 +141,11 @@
             "date_modified": "2023-08-21T13:04:54-07:00"
         },
         {
-            "id": "https://krclarkwa.github.io/gh-pages/dashboard.html",
-            "url": "https://krclarkwa.github.io/gh-pages/dashboard.html",
+            "id": "https://krclarkwa.github.io/gh-pages/dashboard/",
+            "url": "https://krclarkwa.github.io/gh-pages/dashboard/",
             "title": "Dashboard",
             "author": {
-                "name": "HLX"
+                "name": "K"
             },
             "tags": [
             ],
