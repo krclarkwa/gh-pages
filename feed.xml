@@ -42,7 +42,7 @@
         <updated>2023-08-21T13:50:11-07:00</updated>
             <summary>
                 <![CDATA[
-                    Attachments are Documents, Images, Photos, other files that can be a part of records, such as Assets, Requests, Tasks, Non-Asset Tasks, Work Orders, and Resources.
+                    Attachments are Documents, Images, Photos, other files that can be a part&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -62,7 +62,7 @@
         <updated>2023-08-21T14:41:34-07:00</updated>
             <summary>
                 <![CDATA[
-                    What is Non-Asset Task Tasks that are not related to Assets and not performed on Assets.
+                    What is Non-Asset Task Tasks that are not related to Assets and&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -112,12 +112,12 @@
         <updated>2023-08-21T13:26:56-07:00</updated>
             <summary>
                 <![CDATA[
-                    Work Orders are groups of Tasks with assigned Resources and, usually, related to Assets.
+                    Work Orders are groups of Tasks with assigned Resources and, usually, related&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/10//work-work-orders.JPG" alt="" width="1379" height="371" sizes="100vw" srcset="https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-lg.JPG 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-xl.JPG 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-2xl.JPG 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/10//work-work-orders.JPG" alt="" width="1379" height="371" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-lg.JPG 1024w"></figure>
 <p>Work Orders are groups of <a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a> with assigned <a href="https://krclarkwa.github.io/gh-pages/resources/">Resources</a> and, usually, related to <a href="https://krclarkwa.github.io/gh-pages/assets/">Assets</a>.</p>
 <p> </p>
             ]]>
@@ -134,12 +134,12 @@
         <updated>2023-08-21T13:22:41-07:00</updated>
             <summary>
                 <![CDATA[
-                    Tasks are "graduated" Requests. Tasks are combined into Work Orders or remain standalone.
+                    Tasks are "graduated" Requests. Tasks are combined into Work Orders or remain&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/9/tasks.jpeg" alt="" width="824" height="203" sizes="100vw" srcset="https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-xs.jpeg 300w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-sm.jpeg 480w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-md.jpeg 768w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-lg.jpeg 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-xl.jpeg 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-2xl.jpeg 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/9/tasks.jpeg" alt="" width="824" height="203" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-xs.jpeg 300w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-sm.jpeg 480w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-md.jpeg 768w ,https://krclarkwa.github.io/gh-pages/media/posts/9/responsive/tasks-lg.jpeg 1024w"></figure>
 <p>Tasks are "graduated" <a href="https://krclarkwa.github.io/gh-pages/requests/" target="_blank" rel="noopener noreferrer">Requests</a>. Tasks are combined into Work Orders or remain standalone.</p>
             ]]>
         </content>
@@ -175,7 +175,7 @@
         <updated>2023-08-21T13:14:36-07:00</updated>
             <summary>
                 <![CDATA[
-                    Resources are Labor - Human Resources, such as Labor Crews and Workers. Materials - what County has in stock. Vendors - their materials, equipment and services. Video by Cartegraph Cartegraph OMS Overview - Resource Management 
+                    Resources are Labor - Human Resources, such as Labor Crews and Workers.
                 ]]>
             </summary>
         <content type="html">
@@ -208,7 +208,7 @@
         <updated>2023-08-21T13:28:09-07:00</updated>
             <summary>
                 <![CDATA[
-                    Assets are physical objects, items that County owns, services or operates, such as Signals, Shelters, Signs, Buildings. Instead of entering the same information for a new restocked asset, duplicate the old record. Asset inventory, inspections, performance, and relationships.
+                    Assets are physical objects, items that County owns, services or operates, such&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -217,7 +217,7 @@
 <div class="ControlZone--control">
 <div class="rte-webpart" dir="auto" data-sp-feature-tag="Rich Text Editor" data-sp-feature-instance-id="8c37c043-1b9a-4dbf-ba8c-83227a9afeab">
 <div class="cke_editable rte--read rte--inline ckeditable_removeMargin highlightFocusFix rte-strong-fontWeight blockQuoteFont zeroSpacing cke_editable rteEmphasis root-149" data-automation-id="textBox">
-<figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/6/assets.JPG" alt="" width="1472" height="333" sizes="100vw" srcset="https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-lg.JPG 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-xl.JPG 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-2xl.JPG 1600w"></figure>Assets are physical objects, items that County owns, services or operates, such as Signals, Shelters, Signs, Buildings.</p>
+<figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/6/assets.JPG" alt="" width="1472" height="333" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/6/responsive/assets-lg.JPG 1024w"></figure>Assets are physical objects, items that County owns, services or operates, such as Signals, Shelters, Signs, Buildings.</p>
 <h2>Duplicating an Asset</h2>
 <p>Instead of entering the same information for a new restocked asset, duplicate the old record.</p>
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/50405c87-b938-436b-b5a8-1f2f8d544dbb/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
@@ -268,12 +268,12 @@
         <updated>2023-08-21T13:04:54-07:00</updated>
             <summary>
                 <![CDATA[
-                    Cartegraph Requests Requests are created when a customer (citizen, co-worker, partner, contractor, etc.) requests a service, such as inspection, repair, installation, etc. Next, a Task or a group of Tasks is created to address a Request. If a Request requires multiple Tasks, more Tasks can&hellip;
+                    Cartegraph Requests Requests are created when a customer (citizen, co-worker, partner, contractor,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/4/requests.JPG" alt="" width="1681" height="366" sizes="100vw" srcset="https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-lg.JPG 1024w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-xl.JPG 1360w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-2xl.JPG 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/4/requests.JPG" alt="" width="1681" height="366" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/4/responsive/requests-lg.JPG 1024w"></figure>
 <div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
