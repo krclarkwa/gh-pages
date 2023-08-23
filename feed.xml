@@ -3,7 +3,7 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-23T15:43:11-07:00</updated>
+    <updated>2023-08-23T15:50:34-07:00</updated>
     <author>
         <name>K</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://krclarkwa.github.io/gh-pages/i/</id>
         <media:content url="https://krclarkwa.github.io/gh-pages/media/posts/15/ctg-dashboard-x.png" medium="image" />
 
-        <updated>2023-08-23T15:43:11-07:00</updated>
+        <updated>2023-08-23T15:50:34-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://krclarkwa.github.io/gh-pages/media/posts/15/ctg-dashboard-x.png" alt="" />
@@ -29,10 +29,10 @@
             <![CDATA[
                     <p><img src="https://krclarkwa.github.io/gh-pages/media/posts/15/ctg-dashboard-x.png" class="type:primaryImage" alt="" /></p>
                 <p>Interactive Starter</p>
-<p>
-<script> (function(s,p,o,t,T){ T=p.getElementsByTagName('head')[0]; t=p.createElement('script');t.async=1;t.src=o; T.appendChild(t); })(window,document,'https://static.spott.ai/embed/embed.js'); </script>
-</p>
-<div class="spott-embed" data-spott-id="a7d88dec-2e89-43a5-8de3-205533dd4e72"> </div>
+<p> </p>
+<div style="max-width: 1600px;">
+<div style="width: 100%; height: 0; padding-bottom: calc(62.45239908606245% + 40px); position: relative;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://static.spott.ai/embed/?spottId=a7d88dec-2e89-43a5-8de3-205533dd4e72&amp;fullResolution=true&amp;language=en" frameborder="0" allowfullscreen="allowfullscreen" scrolling="no"></iframe></div></div>
+</div>
             ]]>
         </content>
     </entry>
