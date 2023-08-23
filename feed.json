@@ -14,7 +14,7 @@
             "url": "https://krclarkwa.github.io/gh-pages/i/",
             "title": "Interview",
             "summary": "Interactive Starter",
-            "content_html": "<p>Interactive Starter</p>\n<p>\n<script> (function(s,p,o,t,T){ T=p.getElementsByTagName('head')[0]; t=p.createElement('script');t.async=1;t.src=o; T.appendChild(t); })(window,document,'https://static.spott.ai/embed/embed.js'); </script>\n</p>\n<div class=\"spott-embed\" data-spott-id=\"723402bf-cf49-42cd-a216-2fa51ea38837\"> </div>\n<p> </p>",
+            "content_html": "<p>Interactive Starter</p>\n<p>\n<script> (function(s,p,o,t,T){ T=p.getElementsByTagName('head')[0]; t=p.createElement('script');t.async=1;t.src=o; T.appendChild(t); })(window,document,'https://static.spott.ai/embed/embed.js'); </script>\n</p>\n<div class=\"spott-embed\" data-spott-id=\"a7d88dec-2e89-43a5-8de3-205533dd4e72\"> </div>",
             "image": "https://krclarkwa.github.io/gh-pages/media/posts/15/ctg-dashboard-x.png",
             "author": {
                 "name": "K"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2023-08-23T15:16:30-07:00",
-            "date_modified": "2023-08-23T15:17:30-07:00"
+            "date_modified": "2023-08-23T15:43:11-07:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/edit-asset-in-cartegraph-classic-desktop/",

@@ -3,7 +3,7 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-23T15:17:30-07:00</updated>
+    <updated>2023-08-23T15:43:11-07:00</updated>
     <author>
         <name>K</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://krclarkwa.github.io/gh-pages/i/</id>
         <media:content url="https://krclarkwa.github.io/gh-pages/media/posts/15/ctg-dashboard-x.png" medium="image" />
 
-        <updated>2023-08-23T15:17:30-07:00</updated>
+        <updated>2023-08-23T15:43:11-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://krclarkwa.github.io/gh-pages/media/posts/15/ctg-dashboard-x.png" alt="" />
@@ -32,8 +32,7 @@
 <p>
 <script> (function(s,p,o,t,T){ T=p.getElementsByTagName('head')[0]; t=p.createElement('script');t.async=1;t.src=o; T.appendChild(t); })(window,document,'https://static.spott.ai/embed/embed.js'); </script>
 </p>
-<div class="spott-embed" data-spott-id="723402bf-cf49-42cd-a216-2fa51ea38837"> </div>
-<p> </p>
+<div class="spott-embed" data-spott-id="a7d88dec-2e89-43a5-8de3-205533dd4e72"> </div>
             ]]>
         </content>
     </entry>
