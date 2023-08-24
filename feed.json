@@ -15,14 +15,13 @@
             "title": "Interview",
             "summary": "Interactive Starter",
             "content_html": "<p>Interactive Starter</p>\n<p> </p>\n<div style=\"max-width: 1600px;\">\n<div style=\"width: 100%; height: 0; padding-bottom: calc(62.45239908606245% + 40px); position: relative;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;\" src=\"https://static.spott.ai/embed/?spottId=a7d88dec-2e89-43a5-8de3-205533dd4e72&amp;fullResolution=true&amp;language=en\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\"></iframe></div></div>\n</div>",
-            "image": "https://krclarkwa.github.io/gh-pages/media/posts/15/ctg-dashboard-x.png",
             "author": {
                 "name": "K"
             },
             "tags": [
             ],
             "date_published": "2023-08-23T15:16:30-07:00",
-            "date_modified": "2023-08-23T15:50:34-07:00"
+            "date_modified": "2023-08-23T15:55:56-07:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/edit-asset-in-cartegraph-classic-desktop/",
