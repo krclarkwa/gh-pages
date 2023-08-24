@@ -3,12 +3,40 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-23T15:55:56-07:00</updated>
+    <updated>2023-08-24T10:27:54-07:00</updated>
     <author>
         <name>K</name>
     </author>
     <id>https://krclarkwa.github.io/gh-pages</id>
 
+    <entry>
+        <title>Cartegraph Collab Feedback</title>
+        <author>
+            <name>K</name>
+        </author>
+        <link href="https://krclarkwa.github.io/gh-pages/collab/"/>
+        <id>https://krclarkwa.github.io/gh-pages/collab/</id>
+
+        <updated>2023-08-24T10:27:54-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Sign-in Install Chrome Extension Login Collaborate
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>Sign-in</li>
+<li>Install Chrome Extension</li>
+<li>Login</li>
+<li>Collaborate</li>
+</ol>
+<p> 
+<script src="https://web.ruttl.com/embed.js" async="" type="text/javascript" id="ruttl_embed_js" embed_link="https://web.ruttl.com/embed/rlCInINEEeTYKD5fjBCl" loading_image="https://storage.ruttl.com/thumbnails/rlCInINEEeTYKD5fjBCl-jua2VBR2fMlMfTS2iQd0.jpg?time=1692324304"></script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Interview</title>
         <author>
@@ -266,28 +294,6 @@
 <p>Asset inventory, inspections, performance, and relationships. </p>
 <p> </p>
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/400bed34-deb2-44da-9365-b3679c1ac0ab/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Work</title>
-        <author>
-            <name>K</name>
-        </author>
-        <link href="https://krclarkwa.github.io/gh-pages/work/"/>
-        <id>https://krclarkwa.github.io/gh-pages/work/</id>
-
-        <updated>2023-08-21T12:53:44-07:00</updated>
-            <summary>
-                <![CDATA[
-                    Tasks, Resource entry, Work Orders, and Activities
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tasks, Resource entry, Work Orders, and Activities</p>
-<p> </p>
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/73a6d973-e842-44b6-8f7a-5fe90a7aace5/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
             ]]>
         </content>
     </entry>
