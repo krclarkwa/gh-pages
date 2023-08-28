@@ -3,7 +3,7 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-28T14:37:23-07:00</updated>
+    <updated>2023-08-28T16:13:51-07:00</updated>
     <author>
         <name>K</name>
     </author>
@@ -100,7 +100,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Attachments are Documents, Images, Photos, other files that can be a part of records, such as <a href="https://krclarkwa.github.io/gh-pages/assets-2/">Assets</a>, <a href="https://krclarkwa.github.io/gh-pages/requests/">Requests</a>, <a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a>, <a href="https://krclarkwa.github.io/gh-pages/non-asset-task/">Non-Asset Tasks</a>, <a href="https://krclarkwa.github.io/gh-pages/work-orders/">Work Orders</a>, and <a href="https://krclarkwa.github.io/gh-pages/resources/">Resources</a>.</p>
+                <p>Attachments are Documents, Images, Photos, other files that can be a part of records, such as <a href="https://krclarkwa.github.io/gh-pages/asset/">Assets</a>, <a href="https://krclarkwa.github.io/gh-pages/requests/">Requests</a>, <a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a>, <a href="https://krclarkwa.github.io/gh-pages/non-asset-task/">Non-Asset Tasks</a>, <a href="https://krclarkwa.github.io/gh-pages/work-orders/">Work Orders</a>, and <a href="https://krclarkwa.github.io/gh-pages/resources/">Resources</a>.</p>
 <p> </p>
             ]]>
         </content>
@@ -143,7 +143,7 @@
 <div class="ControlZone--control">
 <div class="rte-webpart rte--ck5 rte--read-ck5 uniformSpacingForElements" dir="auto" data-sp-feature-tag="Rich Text Editor" data-sp-feature-instance-id="8cbe0789-d45a-4cb5-808d-66bad0a2b589">
 <div class="ck-content rteEmphasis root-161" data-automation-id="textBox">
-<p><a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a> that are not related to <a href="https://krclarkwa.github.io/gh-pages/assets-2/">Assets</a> and not performed on Assets.</p>
+<p><a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a> that are not related to <a href="https://krclarkwa.github.io/gh-pages/asset/">Assets</a> and not performed on Assets.</p>
 <p> </p>
 </div>
 </div>
@@ -163,7 +163,7 @@
         <link href="https://krclarkwa.github.io/gh-pages/work-orders/"/>
         <id>https://krclarkwa.github.io/gh-pages/work-orders/</id>
 
-        <updated>2023-08-28T13:21:05-07:00</updated>
+        <updated>2023-08-28T16:13:51-07:00</updated>
             <summary>
                 <![CDATA[
                     Work Orders are groups of Tasks or a single Task with assigned&hellip;
@@ -175,6 +175,7 @@
 <p>Work Orders are groups of <a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a> or a single Task with assigned (entered) <a href="https://krclarkwa.github.io/gh-pages/resources/">Resources</a>. Think of Work Orders as Projects.</p>
 <h2>Repeating Work Orders</h2>
 <p>In this video, we will create a Recurring Work Order with a <a href="https://krclarkwa.github.io/gh-pages/non-asset-task/">Non-Asset Task</a>, then convert Non-Asset task to an <a href="https://krclarkwa.github.io/gh-pages/tasks/" title="Tasks">Asset Task</a>.</p>
+<p><em>The location description for Asset Tasks is inherited from the Asset. Non-asset Tasks inherit the location description from the Task that it is repeating.</em></p>
 <p> </p>
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/92d3d9df-81dd-49da-bfad-0c74639aabb6/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
             ]]>
@@ -256,13 +257,13 @@
         <author>
             <name>K</name>
         </author>
-        <link href="https://krclarkwa.github.io/gh-pages/assets-2/"/>
-        <id>https://krclarkwa.github.io/gh-pages/assets-2/</id>
+        <link href="https://krclarkwa.github.io/gh-pages/asset/"/>
+        <id>https://krclarkwa.github.io/gh-pages/asset/</id>
             <category term="Warehousing"/>
             <category term="Duplication"/>
             <category term="Asset"/>
 
-        <updated>2023-08-28T14:37:23-07:00</updated>
+        <updated>2023-08-28T14:40:35-07:00</updated>
             <summary>
                 <![CDATA[
                     Assets are physical objects, items that County owns, services or operates, such&hellip;
