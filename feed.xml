@@ -3,7 +3,7 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-24T14:29:43-07:00</updated>
+    <updated>2023-08-28T13:21:05-07:00</updated>
     <author>
         <name>K</name>
     </author>
@@ -17,19 +17,20 @@
         <link href="https://krclarkwa.github.io/gh-pages/collab/"/>
         <id>https://krclarkwa.github.io/gh-pages/collab/</id>
 
-        <updated>2023-08-24T14:29:43-07:00</updated>
+        <updated>2023-08-24T14:39:09-07:00</updated>
             <summary>
                 <![CDATA[
-                    Sign-in Install optional Chrome Extension Login Collaborate
+                    Sign-up Confirm Email Login Collaborate Install optional Chrome Extension to add more&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <ol>
-<li>Sign-in</li>
-<li>Install optional Chrome Extension</li>
+<li>Sign-up</li>
+<li>Confirm Email</li>
 <li>Login</li>
 <li>Collaborate</li>
+<li>Install optional Chrome Extension to add more pages into Project</li>
 </ol>
 <p> 
 <script src="https://web.ruttl.com/embed.js" async="" type="text/javascript" id="ruttl_embed_js" embed_link="https://web.ruttl.com/embed/rlCInINEEeTYKD5fjBCl" loading_image="https://storage.ruttl.com/thumbnails/rlCInINEEeTYKD5fjBCl-jua2VBR2fMlMfTS2iQd0.jpg?time=1692324304"></script>
@@ -162,18 +163,20 @@
         <link href="https://krclarkwa.github.io/gh-pages/work-orders/"/>
         <id>https://krclarkwa.github.io/gh-pages/work-orders/</id>
 
-        <updated>2023-08-23T11:41:44-07:00</updated>
+        <updated>2023-08-28T13:21:05-07:00</updated>
             <summary>
                 <![CDATA[
-                    Work Orders are groups of Tasks with assigned Resources and, usually, related&hellip;
+                    Work Orders are groups of Tasks or a single Task with assigned&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="https://krclarkwa.github.io/gh-pages/media/posts/10//work-work-orders.JPG" alt="" width="1379" height="371" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-xs.JPG 300w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-sm.JPG 480w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-md.JPG 768w ,https://krclarkwa.github.io/gh-pages/media/posts/10//responsive/work-work-orders-lg.JPG 1024w"></figure>
-<p>Work Orders are groups of <a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a> with assigned <a href="https://krclarkwa.github.io/gh-pages/resources/">Resources</a> and, usually, related to <a href="https://krclarkwa.github.io/gh-pages/assets-2/">Assets</a>.</p>
+<p>Work Orders are groups of <a href="https://krclarkwa.github.io/gh-pages/tasks/">Tasks</a> or a single Task with assigned (entered) <a href="https://krclarkwa.github.io/gh-pages/resources/">Resources</a>. Think of Work Orders as Projects.</p>
+<h2>Repeating Work Orders</h2>
+<p>In this video, we will create a Recurring Work Order with a <a href="https://krclarkwa.github.io/gh-pages/non-asset-task/">Non-Asset Task</a>, then convert Non-Asset task to an <a href="https://krclarkwa.github.io/gh-pages/tasks/" title="Tasks">Asset Task</a>.</p>
 <p> </p>
-<p> </p>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><div class="post__iframe"><iframe loading="lazy" width="745" height="419" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://sumplayer.com/video/92d3d9df-81dd-49da-bfad-0c74639aabb6/" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div></div>
             ]]>
         </content>
     </entry>
