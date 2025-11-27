@@ -3,7 +3,7 @@
     <title>CARTEtrain</title>
     <link href="https://krclarkwa.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://krclarkwa.github.io/gh-pages" />
-    <updated>2023-08-28T16:13:51-07:00</updated>
+    <updated>2025-11-27T14:07:15+03:00</updated>
     <author>
         <name>K</name>
     </author>
@@ -17,8 +17,8 @@
         <link href="https://krclarkwa.github.io/gh-pages/collab/"/>
         <id>https://krclarkwa.github.io/gh-pages/collab/</id>
 
-        <updated>2023-08-24T14:39:09-07:00</updated>
-            <summary>
+        <updated>2023-08-24T20:27:36+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Sign-up Confirm Email Login Collaborate Install optional Chrome Extension to add more&hellip;
                 ]]>
@@ -46,8 +46,8 @@
         <link href="https://krclarkwa.github.io/gh-pages/i/"/>
         <id>https://krclarkwa.github.io/gh-pages/i/</id>
 
-        <updated>2023-08-23T15:55:56-07:00</updated>
-            <summary>
+        <updated>2023-08-24T01:16:30+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Interactive Starter
                 ]]>
@@ -74,7 +74,7 @@
             <category term="Desktop"/>
             <category term="Asset"/>
 
-        <updated>2023-08-21T14:43:47-07:00</updated>
+        <updated>2023-08-22T00:43:14+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -92,8 +92,8 @@
             <category term="Details"/>
             <category term="Attachment"/>
 
-        <updated>2023-08-23T11:41:33-07:00</updated>
-            <summary>
+        <updated>2023-08-21T23:49:43+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Attachments are Documents, Images, Photos, other files that can be a part&hellip;
                 ]]>
@@ -113,8 +113,8 @@
         <link href="https://krclarkwa.github.io/gh-pages/non-asset-task/"/>
         <id>https://krclarkwa.github.io/gh-pages/non-asset-task/</id>
 
-        <updated>2023-08-21T14:41:34-07:00</updated>
-            <summary>
+        <updated>2023-08-21T23:29:48+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     What is Non-Asset Task Tasks that are not related to Assets and&hellip;
                 ]]>
@@ -163,8 +163,8 @@
         <link href="https://krclarkwa.github.io/gh-pages/work-orders/"/>
         <id>https://krclarkwa.github.io/gh-pages/work-orders/</id>
 
-        <updated>2023-08-28T16:13:51-07:00</updated>
-            <summary>
+        <updated>2023-08-21T23:24:51+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Work Orders are groups of Tasks or a single Task with assigned&hellip;
                 ]]>
@@ -189,8 +189,8 @@
         <link href="https://krclarkwa.github.io/gh-pages/tasks/"/>
         <id>https://krclarkwa.github.io/gh-pages/tasks/</id>
 
-        <updated>2023-08-23T11:42:42-07:00</updated>
-            <summary>
+        <updated>2023-08-21T23:22:41+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Tasks are "graduated" Requests. Tasks, along with Resources, are combined into Work&hellip;
                 ]]>
@@ -210,8 +210,8 @@
         <link href="https://krclarkwa.github.io/gh-pages/reports/"/>
         <id>https://krclarkwa.github.io/gh-pages/reports/</id>
 
-        <updated>2023-08-23T11:43:06-07:00</updated>
-            <summary>
+        <updated>2023-08-21T19:42:52+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Reports are "pretty" printables and various data exports for Tasks, Work Orders.
                 ]]>
@@ -230,8 +230,8 @@
         <link href="https://krclarkwa.github.io/gh-pages/resources/"/>
         <id>https://krclarkwa.github.io/gh-pages/resources/</id>
 
-        <updated>2023-08-21T13:14:36-07:00</updated>
-            <summary>
+        <updated>2023-08-21T19:42:43+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Resources are Labor - Human Resources, such as Labor Crews and Workers.
                 ]]>
@@ -263,8 +263,8 @@
             <category term="Duplication"/>
             <category term="Asset"/>
 
-        <updated>2023-08-28T14:40:35-07:00</updated>
-            <summary>
+        <updated>2023-08-21T19:42:33+03:00</updated>
+            <summary type="html">
                 <![CDATA[
                     Assets are physical objects, items that County owns, services or operates, such&hellip;
                 ]]>

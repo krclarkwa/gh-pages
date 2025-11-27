@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-08-24T10:27:36-07:00",
-            "date_modified": "2023-08-24T14:39:09-07:00"
+            "date_published": "2023-08-24T20:27:36+03:00",
+            "date_modified": "2025-11-27T14:07:15+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/i/",
@@ -34,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-08-23T15:16:30-07:00",
-            "date_modified": "2023-08-23T15:55:56-07:00"
+            "date_published": "2023-08-24T01:16:30+03:00",
+            "date_modified": "2023-08-24T01:55:56+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/edit-asset-in-cartegraph-classic-desktop/",
@@ -51,8 +51,8 @@
                    "Desktop",
                    "Asset"
             ],
-            "date_published": "2023-08-21T14:43:14-07:00",
-            "date_modified": "2023-08-21T14:43:47-07:00"
+            "date_published": "2023-08-22T00:43:14+03:00",
+            "date_modified": "2023-08-22T00:43:47+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/attachments/",
@@ -67,8 +67,8 @@
                    "Details",
                    "Attachment"
             ],
-            "date_published": "2023-08-21T13:49:43-07:00",
-            "date_modified": "2023-08-23T11:41:33-07:00"
+            "date_published": "2023-08-21T23:49:43+03:00",
+            "date_modified": "2023-08-23T21:41:33+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/non-asset-task/",
@@ -81,8 +81,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-08-21T13:29:48-07:00",
-            "date_modified": "2023-08-21T14:41:34-07:00"
+            "date_published": "2023-08-21T23:29:48+03:00",
+            "date_modified": "2023-08-22T00:41:34+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/work-orders/",
@@ -95,8 +95,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-08-21T13:24:51-07:00",
-            "date_modified": "2023-08-28T16:13:51-07:00"
+            "date_published": "2023-08-21T23:24:51+03:00",
+            "date_modified": "2023-08-29T02:13:51+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/tasks/",
@@ -109,8 +109,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-08-21T13:22:41-07:00",
-            "date_modified": "2023-08-23T11:42:42-07:00"
+            "date_published": "2023-08-21T23:22:41+03:00",
+            "date_modified": "2023-08-23T21:42:42+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/reports/",
@@ -123,8 +123,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-08-21T09:42:52-07:00",
-            "date_modified": "2023-08-23T11:43:06-07:00"
+            "date_published": "2023-08-21T19:42:52+03:00",
+            "date_modified": "2023-08-23T21:43:06+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/resources/",
@@ -137,8 +137,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-08-21T09:42:43-07:00",
-            "date_modified": "2023-08-21T13:14:36-07:00"
+            "date_published": "2023-08-21T19:42:43+03:00",
+            "date_modified": "2023-08-21T23:14:36+03:00"
         },
         {
             "id": "https://krclarkwa.github.io/gh-pages/asset/",
@@ -154,8 +154,8 @@
                    "Duplication",
                    "Asset"
             ],
-            "date_published": "2023-08-21T09:42:33-07:00",
-            "date_modified": "2023-08-28T14:40:35-07:00"
+            "date_published": "2023-08-21T19:42:33+03:00",
+            "date_modified": "2023-08-29T00:40:35+03:00"
         }
     ]
 }
